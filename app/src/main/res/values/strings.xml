@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Society</string>
+    <string name="information">Points represent the existing location issues</string>
+    <string-array name="list_of_issues">
+        <item>Water Availability</item>
+        <item>Electricity</item>
+        <item>Drainage</item>
+        <item>Street Light</item>
+        <item>Damaged Road</item>
+        <item>Municipality</item>
+
+    </string-array>
+</resources>
